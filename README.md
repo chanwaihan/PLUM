@@ -57,7 +57,8 @@ Please refer to the
 <a href="https://github.com/chanwaihan/PLUM/blob/main/presentation/VenturePitch.pdf">Venture Pitch</a> document.
 
 ## Team Members
-Group: Team 5 Stars
+Group: Team 5 Stars<br>
+Mentored by Teoh Yew Jin, co-founder and former CEO of Carlist.my.
 | Name             | Project Role |
 |------------------|--------------|
 | Teoh Yew Jin     | Mentor       |
